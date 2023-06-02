@@ -30,3 +30,17 @@ graph TD;
   Programming_Languages-->C++;
   Programming_Languages-->MATLAB;
 ```
+
+```mermaid
+graph TD;
+  Automation_Software-->TwinCAT_PLC_Control;  
+```
+
+## My Passions ❤️
+🖥️ML and AI
+
+🏀Playing Basketball
+
+🎹Playing Keyboard
+
+🖌️Sketching
