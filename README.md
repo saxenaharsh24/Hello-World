@@ -11,3 +11,22 @@ I enjoy learning new things regardless of where they come from :blush:.
 
 ❓**Where you can find me** ➡️ [HARSHVARDHAN R SAXENA](https://www.linkedin.com/in/harshvardhan-saxena?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZdZs7RfpS5ust5SFaQH9dg%3D%3D)
 
+## What I Know ❔
+
+```mermaid
+graph TD;
+  Design_Softwares-->SolidWorks;
+  Design_Softwares-->Autodesk_Inventor;
+  Design_Softwares-->AutoCAD;
+  Simulation_Softwares-->Ansys_Static_Structural;
+  Simulation_Softwares-->Ansys_Fluent;
+  Simulation_Softwares-->Ansys_Modal;
+```
+
+```mermaid
+graph TD;
+  Programming_Languages-->Python;
+  Programming_Languages-->C;
+  Programming_Languages-->C++;
+  Programming_Languages-->MATLAB;
+```
