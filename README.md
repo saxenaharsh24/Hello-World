@@ -17,9 +17,9 @@ I enjoy learning new things regardless of where they come from :blush:.
 graph TD;
   Design_Softwares-->SolidWorks;
   Design_Softwares-->Autodesk_Inventor;
-  Design_Softwares-->AutoCAD;
-  Simulation_Softwares-->Ansys_Static_Structural;
+  Design_Softwares-->AutoCAD;  
   Simulation_Softwares-->Ansys_Fluent;
+  Simulation_Softwares-->Ansys_Static_Structural;
   Simulation_Softwares-->Ansys_Modal;
 ```
 
